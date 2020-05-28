@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416534278304",
+    "firebase_url": "https://kitapfire.firebaseio.com",
+    "project_id": "kitapfire",
+    "storage_bucket": "kitapfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416534278304:android:2f2d269d63a0f64d8e59c5",
+        "android_client_info": {
+          "package_name": "com.example.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416534278304-652ja3v0ffo1g11ld746tbi8uhai2ajr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYc46vFyTi2EQ-PrtErevpIS7zB75hjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416534278304-652ja3v0ffo1g11ld746tbi8uhai2ajr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
